@@ -5,7 +5,7 @@ Library    String
 
 *** Variables ***
 
-${BROWSER}          chrome
+${BROWSER}          headlesschrome
 ${URL}              https://carrefour.com.br
 
         
